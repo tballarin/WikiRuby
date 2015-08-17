@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3579858560">
+    <data-source source="LOCAL" name="Rails WikiRuby: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="22a0bb97-3b59-495a-b732-13d6eabe4a87">
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/freelanceProject</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/mysql-connector-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/mysql-connector-java-5.1.26-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails WikiRuby: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="72dc1606-1c1e-4b40-81e2-77931b6eb923">
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.7.20.130:3306/wikiruby</jdbc-url>
+      <user-name>adminvLpRksZ</user-name>
+      <user-password>dfc7dfd2dff9df9edfc2dfc4dfccdfe1dffbdffbdfecdfe9</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/mysql-connector-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/mysql-connector-java-5.1.26-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
